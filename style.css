@@ -80,7 +80,7 @@ h1.widget-title a, h1.widget-title, h2.widget-title a, h2.widget-title, .widgett
     text-transform: uppercase;
 }
 .header-top {
-    background: url(http://opensyllabusproject.herokuapp.com/static/media/parallax_image.0228ee4f.jpg)!important;
+    background: url(/img/parallax_image.0228ee4f.jpg)!important;
     color: #fff;
     margin-bottom: 40px;
     min-height: 500px;
@@ -368,10 +368,10 @@ a.navbar-brand { color: #fff }
 .top-nav-collapse {
     background-color: #3c495c;
     padding: 10px 0 0;
-    background-image: url(http://opensyllabusproject.herokuapp.com/static/media/parallax_image.0228ee4f.jpg);
+    background-image: url(/img/parallax_image.0228ee4f.jpg);
 }
 
-.collapse.in { background-image: url(http://opensyllabusproject.herokuapp.com/static/media/parallax_image.0228ee4f.jpg); }
+.collapse.in { background-image: url(/img/parallax_image.0228ee4f.jpg); }
 .top-nav-collapse a.navbar-brand { color: #fff }
 .top-nav-collapse .navbar-brand { font-size: 16px }
 .navbar-nav>li>a, .navbar-brand {
@@ -423,4 +423,8 @@ h2.comments-title {
     background-color: white;
     padding: 3rem;
     border-radius: 0.5rem;
+}
+
+.navbar-collapse{
+    background-image: url(http://opensyllabusproject.herokuapp.com/static/media/parallax_image.0228ee4f.jpg);
 }
