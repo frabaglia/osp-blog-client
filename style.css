@@ -17,10 +17,15 @@ Properties
 Sort Alphabetically
 */
 
+@font-face {
+  font-family: 'Adelle Sans W01 Regular';
+  src: url('/fonts/186081425f588a894cd7876472413453.e4abb3fa.woff2') format('woff2');
+}
+
 body {
     background-color: #f4f5f9;
     color: #405063;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Adelle Sans W01 Regular', 'Open Sans', sans-serif;
     font-size: 18px;
     font-weight: 400;
     height: 100%;
