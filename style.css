@@ -25,7 +25,7 @@ Sort Alphabetically
 body {
     background-color: #f4f5f9;
     color: #405063;
-    font-family: 'Adelle Sans W01 Regular', 'Open Sans', sans-serif;
+    font-family: 'Adelle Sans W01 Regular', 'Open Sans', sans-serif !important;
     font-size: 18px;
     font-weight: 400;
     height: 100%;
