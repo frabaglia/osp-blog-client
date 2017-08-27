@@ -69,7 +69,7 @@ The OSP will also have a well-documented API, building on standard REST/HTTP que
 								</div>
 							</div>
 							<div class="five columns">
-								<img class="centeredImg" src="img/Category of partners.png"/>
+								<img class="centeredImg" src="img/category of partners.png"/>
 							</div>
 						</div>
 						<div class="row-navbar">
