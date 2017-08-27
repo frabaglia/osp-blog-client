@@ -67,9 +67,9 @@ The core database is built with MongoDB, a modern, document-centered, open sourc
 
 The OSP will also have a well-documented API, building on standard REST/HTTP queries that will allow third parties to write their own applications.
 								</div>
-							</div>
-							<div class="five columns">
-								<img class="centeredImg" src="img/category of partners.png"/>
+								<div class="five columns">
+									<img class="centeredImg" src="img/category of partners.png"/>
+								</div>							
 							</div>
 						</div>
 						<div class="row-navbar">
