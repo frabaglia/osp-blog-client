@@ -13,7 +13,7 @@
 								<h3>Category of partners</h3>
 							</div>
 							<div class="row">
-								<img class="centeredImg" src="img/Category of partners.png"/>
+								<img class="centeredImg" src="img/category of partners.png"/>
 							</div>
 						</div>
 						<div class="row-navbar">
