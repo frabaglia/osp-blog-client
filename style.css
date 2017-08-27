@@ -70,6 +70,8 @@ img{
 }
 
 .syllabus-logo {
+    position: relative;
+    top: -0.6em;	
     float: left;
     height: 40px;
 }
