@@ -27,13 +27,13 @@
 										<a href="/">Home</a>
 									</li>
 									<li id="menuContent">
-										<a target="_blank" href="http://opensyllabusproject.org/">Corpus Stats</a>
+										<a target="_blank" href="index.php">Corpus Stats</a>
 									</li>
 									<li id="menuContent">
 										<a target="_blank" href="about.php">About</a>
 									</li>
 									<li id="menuContent">
-										<a target="_blank" href="http://opensyllabusproject.org/">Blog</a>
+										<a target="_blank" href="article.php">Blog</a>
 									</li>
 									<li id="menuContent">
 										<a target="_blank" href="http://opensyllabusproject.org/contact-the-osp/">Contact</a>
