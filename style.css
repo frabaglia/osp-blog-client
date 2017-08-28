@@ -6,7 +6,13 @@ body {
 
 img{
 	max-width: 100%;
+}	
+
+a {
+	color: #9bd331;	
+	text-decoration: none;
 }
+
 @font-face {
   font-family: 'Adelle Sans W01 Regular';
   src: url('fonts/7ff3a37e1e7b7ffa2fd8845f7351d0bc.67896fc4.woff2') format('woff2');
@@ -46,6 +52,7 @@ img{
     padding: 0;
 }
 }
+
 
 /*****header*****/
 .header-landing {
@@ -105,7 +112,7 @@ ol, ul {
 }
 
 ul {
-    list-style: circle inside;
+    list-style: inside;
 }
 
 .navbar ul li {
@@ -314,16 +321,40 @@ li {
     line-height: 34px;
     text-align: center;
     font-size: 14px;
-    margin-left: 1em;	
+    margin-left: 0;	
 }
 
-.container-navbar {
+/*****body****/
+.title-box, .container-navbar, .left-content, .right-content, .button-title-left {
+	padding-left: 1em;
+	padding-right: 1em;
+}
+
+.title-box, .container-navbar, .left-content, .right-content {
     background-color: #fff;
     padding-top: 34px;
     border-radius: 5px;
 }
 
-/*********/
+.left-content, .right-content {
+    padding-top: 13px;	
+	padding-bottom: 13px;
+}
+
+.title-box {
+	background-color: #fff;
+	border-radius: 5px;
+	padding-top: 25px;
+    padding-bottom: 13px;
+}
+
+.title-box p {
+	margin: 0;	
+}
+
+.content-no-title{
+	margin-top: 1em;
+}
 
 .landing{
 	margin: 3em 0;
@@ -332,6 +363,11 @@ li {
 .centeredImg{
 	display: block;
     margin: 0 auto;
+}
+
+.margin-content {
+	margin-left: 1em!important;
+    margin-right: 1em!important;
 }
 
 /***fotter***/
@@ -427,9 +463,48 @@ li {
 .subtitle{
 	font-weight: bold;
 }
+
+
 /***skeleton extension***/
 
 .u-max-width-l {
   max-width: 1124px;
   box-sizing: border-box; 
 }
+
+/**post**/
+
+.post-date, .post-author {
+	margin: 0;
+    color: #85919f;
+	font-size: 0.8em;
+    font-style: italic;
+}
+
+.post-author {
+	color: #9bd331;
+}
+
+.post-title {
+    display: flex;
+}
+
+.post-title {
+    font-family: Adelle Sans W01 Bold;
+    margin-bottom: 1rem;
+}
+
+.post-subtitle{ font-weight: bold; }
+
+.navigation-link{
+	color: #9bd331;
+}
+
+.facebook-iframe{
+	max-width: 100%;
+}
+
+.sidebar-title{
+	font-weight: bold;
+}
+

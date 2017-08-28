@@ -6,8 +6,8 @@
 				<div class="button-title">
 					<div>PARTNERS</div>         
 				</div>
-				<div class="container-navbar">
-					<div class="container u-max-width-l">
+				<div class="title-box">
+
 						<div class="main-content container-fluid">
 							<div class="row">
 								<h3>Category of partners</h3>
@@ -16,9 +16,7 @@
 								<img class="centeredImg" src="img/category of partners.png"/>
 							</div>
 						</div>
-						<div class="row-navbar">
-						</div>
-					</div>
+
 				</div>
 				<div class="landing-content">
 					<div class="left-content">
