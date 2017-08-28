@@ -8,7 +8,7 @@
 		<link href="css/skeleton.css" rel="stylesheet"/>
 		<link href="style.css" rel="stylesheet"/>
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-		<script src="js/menu.js"></script>	
+		<script src="js/menu.js"></script>		
 	</head>
 	<body>
 		<header class="header-landing">
@@ -24,10 +24,10 @@
 							<div id="menuContent" class="menu-content">
 								<ul>
 									<li id="menuContent" class="home-active">
-										<a href="/">Home</a>
+										<a href="index.php">Home</a>
 									</li>
 									<li id="menuContent">
-										<a target="_blank" href="index.php">Corpus Stats</a>
+										<a target="_blank" href="partners.php">Corpus Stats</a>
 									</li>
 									<li id="menuContent">
 										<a target="_blank" href="about.php">About</a>

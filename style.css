@@ -508,3 +508,72 @@ li {
 	font-weight: bold;
 }
 
+/***header front page***/
+
+.button-header {
+	margin: 0px auto;
+	text-align:center;
+	color:white;
+	font-size:120%;
+	background-color: #9bd331;
+	-webkit-border-radius: 14px;
+	-moz-border-radius: 14px; 
+	border-radius: 12px; 
+	text-shadow: none;
+}
+
+@media (max-width: 768px){
+	h1.site-title {
+		font-size: 40px;
+	}
+}
+@media (max-width: 1200px){
+	h1.site-title {
+		font-size: 45px;
+	}
+}
+
+h1.site-title {
+    color: #fff;
+    font-size: 60px;
+    font-weight: 800;
+    letter-spacing: -1px;
+    padding: 0;
+}
+
+h2.site-description {
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+.site-branding {
+	display: block;
+}
+
+#masthead {
+	margin-bottom: 40px;
+}
+
+@media (min-width: 760px){
+	.site-branding {
+		display: flex;
+		align-items: center;
+		align-content: center;
+		justify-content: center;		
+	}
+}
+
+
+blockquote {
+    margin: 0 1.5em;
+}
+
+blockquote {
+    padding: 10px 20px;
+    margin: 0 0 20px;
+    font-size: 17.5px;
+    border-left: 5px solid #eee;
+}
