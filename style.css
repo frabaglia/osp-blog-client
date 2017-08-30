@@ -553,16 +553,16 @@ li {
 	font-weight: bold;
 }
 
-.post-navigation{
+.post-preview-navigation{
 	text-align: center;
 	margin-top: 2rem;
 }
 
-.post-navigation a{
+.post-preview-navigation a{
 	color: #85919f;
 }
 
-.post-navigation a:hover {
+.post-preview-navigation a:hover {
 	color: #9bd331;
 }
 
@@ -582,7 +582,7 @@ li {
 }
 
 @media (min-width: 760px){
-	.post-navigation {
+	.post-preview-navigation {
 		display: flex;
 		align-items: center;	
 	}
