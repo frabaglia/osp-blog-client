@@ -37,7 +37,7 @@
 		</div>
 		<div class="logo syllabus-logo">
 			<a target="_blank" href="http://americanassembly.org/">
-				<img width="300" src="img/american assembly.png"/>
+				<img width="300" src="wp-content/themes/mutant/img/american assembly.png"/>
 			</a>
 		</div>
 	</div>
