@@ -77,7 +77,7 @@
 								</div>
 								<!-- .entry-content -->
 							</article>							
-							<div id="post-navigation" class="post-navigation row">
+							<div id="post-preview-navigation" class="post-navigation row">
 								<div id="old-entries-button" class="twelve columns">
 									<a href="/">OLDER ARTICLES</a>
 								</div>
